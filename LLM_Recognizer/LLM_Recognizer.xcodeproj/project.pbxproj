@@ -14,6 +14,7 @@
 		36F273502C510AB3008179B1 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 36F2734F2C510AB3008179B1 /* Base */; };
 		36F273582C515875008179B1 /* CarBrandIconDetector_1.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 36F273572C515875008179B1 /* CarBrandIconDetector_1.mlmodel */; };
 		36F2735A2C515A4B008179B1 /* BoxView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36F273592C515A4B008179B1 /* BoxView.swift */; };
+		36F2735C2C5184DD008179B1 /* PreviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36F2735B2C5184DD008179B1 /* PreviewView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		36F273512C510AB3008179B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		36F273572C515875008179B1 /* CarBrandIconDetector_1.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = CarBrandIconDetector_1.mlmodel; sourceTree = "<group>"; };
 		36F273592C515A4B008179B1 /* BoxView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoxView.swift; sourceTree = "<group>"; };
+		36F2735B2C5184DD008179B1 /* PreviewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				36F273452C510AB2008179B1 /* SceneDelegate.swift */,
 				36F273472C510AB2008179B1 /* ViewController.swift */,
 				36F273592C515A4B008179B1 /* BoxView.swift */,
+				36F2735B2C5184DD008179B1 /* PreviewView.swift */,
 				36F273572C515875008179B1 /* CarBrandIconDetector_1.mlmodel */,
 				36F2734C2C510AB3008179B1 /* Assets.xcassets */,
 				36F2734E2C510AB3008179B1 /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				36F2735A2C515A4B008179B1 /* BoxView.swift in Sources */,
 				36F273582C515875008179B1 /* CarBrandIconDetector_1.mlmodel in Sources */,
 				36F273462C510AB2008179B1 /* SceneDelegate.swift in Sources */,
+				36F2735C2C5184DD008179B1 /* PreviewView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
